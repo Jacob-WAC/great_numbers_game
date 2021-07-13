@@ -1,0 +1,13 @@
+.boxWrong {
+width: 10vw;
+height: 10vw;
+background-color: red;
+border-radius: 10px;
+}
+
+.boxRight {
+  width: 10vw;
+  height: 10vw;
+  background-color: green;
+  border-radius: 10px;
+  }
